@@ -40,12 +40,12 @@ This pitch deck outlines the problem, solution, market opportunity, business mod
 
 ---
 
-## 🚀 Competitive Advantage
+## Competitive Advantage
 AgriMarket AI uniquely combines market access, AI-based price prediction, and smart logistics in one integrated platform, tailored specifically for rural smallholder farmers. Unlike fragmented competitors, we serve the full agri-value chain from produce to payment.
 
 ---
 
-## 📈 5-Month Traction Plan
+## 5-Month Traction Plan
 
 - **Month 1:** Build MVP, Sign Partners
    
@@ -59,7 +59,7 @@ AgriMarket AI uniquely combines market access, AI-based price prediction, and sm
 
 ---
 
-## 💸 Funding Ask
+## Funding Ask
 We are seeking **$75,000** in funding to support:
 
 - Tech development (40%)
